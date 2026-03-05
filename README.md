@@ -12,7 +12,7 @@
 
 <!-- TITRE -->
 <h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Syne&weight=700&size=32&pause=1000&color=00E5A0&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Mamadou+%F0%9F%91%8B;Developer+%26+Builder;Open+Source+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Syne&weight=700&size=32&pause=1000&color=00E5A0&center=true&vCenter=true&width=500&lines=Hey%2C+I'm+Lamine+%F0%9F%91%8B;Developer+%26+Builder;Open+Source+Enthusiast" alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -38,9 +38,9 @@
 
 ```python
 class Mamadoulaminedabo:
-    username   = "Mamadoulaminedabo"
-    languages  = ["Python", "Dart", "Java", "HTML"]
-    interests  = ["Backend", "Mobile Dev", "Open Source", "Algorithms"]
+    username   = "Lamine"
+    languages  = ["Python", "Dart", "Java","C","HTML"]
+    interests  = ["Fullstack", "Mobile Dev", "Open Source", "Algorithms"]
     currently  = "Building & learning every day"
     open_to    = "Collaborations & opportunities"
 ```
